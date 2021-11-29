@@ -15,9 +15,11 @@ I will get data from sources, clean them if needed, make some hypothesizes (pred
 3. Datasources:
 Source 1 = https://www.transfermarkt.us/ - one of the biggest soccer databases and communities in the world. 
 We will get information about the most valuable players by web-scrapping. 
+
 Source 2 = https://api.football-data.org - External public API, provides football data and statistics 
 (live scores, fixtures, tables, squads, lineups/subs, etc.) in a machine-readable way.
 We will get information about players, their results of the matches by API requests.
+
 Source 3 = https://www.theguardian.com/football - the part of news-portal about soccer with current standings of soccer clubs.  
 We will get information about soccer clubs in 5 top European soccer leagues by web-scrapping.
 
