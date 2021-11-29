@@ -13,6 +13,7 @@ DSCI 510 Fall - Final project description
 I will get data from sources, clean them if needed, make some hypothesizes (predictions), and visualize the results. 
 
 3. Datasources:
+
 Source 1 = https://www.transfermarkt.us/ - one of the biggest soccer databases and communities in the world. 
 We will get information about the most valuable players by web-scrapping. 
 
