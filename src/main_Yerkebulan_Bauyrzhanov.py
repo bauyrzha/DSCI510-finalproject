@@ -184,7 +184,7 @@ def scrape_analysis():
     # Create a new directory because it does not exist 
         os.makedirs(path)
         
-    print("The new directory is created!")
+        print("The new directory is created!")
     
     # export our data into csv file.
     df_source1.to_csv('../data/df_source1.csv', index=False)
