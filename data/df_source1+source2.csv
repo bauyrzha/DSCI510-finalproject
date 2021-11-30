@@ -1,0 +1,203 @@
+name,position,Age,Nat.,Market value,club,Goals,Assists,id,win,draw,lost
+Aaron Ramsdale,Goalkeeper,23,England,£18.00m ,Arsenal FC,0,0,5530,4,3,6
+Abdoulaye Doucouré,Central Midfield,28,France,£22.50m ,Everton FC,2,4,8119,3,2,3
+Adam Armstrong,Centre-Forward,24,England,£16.20m ,Southampton FC,2,3,4863,2,5,5
+Adrien Rabiot,Central Midfield,26,France,£27.00m ,Juventus FC,0,1,3368,3,1,8
+Alessio Romagnoli,Centre-Back,26,Italy,£18.00m ,AC Milan,1,0,1740,5,2,9
+Alex Iwobi,Left Winger,25,Nigeria,£19.80m ,Everton FC,2,1,3392,3,2,6
+Alex Meret,Goalkeeper,24,Italy,£16.20m ,SSC Napoli,0,0,2344,4,2,6
+Alex Sandro,Left-Back,30,Brazil,£18.00m ,Juventus FC,1,1,2028,5,3,8
+Alexandre Lacazette,Centre-Forward,30,France,£19.80m ,Arsenal FC,3,1,7797,4,2,4
+Alexis Saelemaekers,Right Winger,22,Belgium,£16.20m ,AC Milan,0,2,8858,5,3,9
+Alfonso Pedraza,Left-Back,25,Spain,£18.00m ,Villarreal CF,0,2,267,4,8,5
+Alisson,Goalkeeper,29,Brazil,£54.00m ,Liverpool FC,0,0,1795,5,4,6
+Allan,Central Midfield,30,Brazil,£19.80m ,Everton FC,0,1,2096,3,3,6
+Amine Gouiri,Centre-Forward,21,France,£31.50m ,OGC Nice,10,6,8476,3,3,8
+Andrea Belotti,Centre-Forward,27,Italy,£31.50m ,Torino FC,2,1,2298,3,0,5
+Andreas Christensen,Centre-Back,25,Denmark,£31.50m ,Chelsea FC,1,0,3455,6,2,8
+Andrew Robertson,Left-Back,27,Scotland,£58.50m ,Liverpool FC,0,3,7868,4,4,6
+André Gomes,Central Midfield,28,Portugal,£18.00m ,Everton FC,0,1,3251,1,0,2
+André Silva,Centre-Forward,26,Portugal,£36.00m ,RB Leipzig,7,5,1760,5,4,7
+André Zambo Anguissa,Defensive Midfield,26,Cameroon,£22.50m ,SSC Napoli,0,0,8354,4,2,9
+Angeliño,Left Midfield,24,Spain,£31.50m ,RB Leipzig,0,5,7646,4,4,5
+Ansu Fati,Left Winger,19,Spain,£54.00m ,FC Barcelona,4,1,128040,3,1,4
+Antonio Rüdiger,Centre-Back,28,Germany,£31.50m ,Chelsea FC,2,2,3177,6,2,7
+Arnaut Danjuma,Left Winger,24,Netherlands,£22.50m ,Villarreal CF,7,3,9870,4,7,5
+Arthur,Central Midfield,25,Brazil,£31.50m ,Juventus FC,0,0,1148,3,1,5
+Ben Chilwell,Left-Back,24,England,£34.20m ,Chelsea FC,3,1,8065,6,2,8
+Ben Godfrey,Centre-Back,23,England,£22.50m ,Everton FC,0,0,5487,2,2,5
+Ben White,Centre-Back,24,England,£36.00m ,Arsenal FC,0,0,6154,4,2,4
+Berat Djimsiti,Centre-Back,28,Albania,£19.80m ,Atalanta BC,0,1,170381,0,0,0
+Bryan Cristante,Central Midfield,26,Italy,£18.00m ,AS Roma,2,1,1844,4,1,7
+Bukayo Saka,Left Midfield,20,England,£58.50m ,Arsenal FC,3,2,99813,4,2,6
+Callum Hudson-Odoi,Right Winger,21,England,£28.80m ,Chelsea FC,2,2,7816,6,2,8
+Carlos Soler,Central Midfield,24,Spain,£36.00m ,Valencia CF,6,2,33148,3,4,3
+Christian Pulisic,Right Winger,23,United States,£45.00m ,Chelsea FC,2,0,145,1,1,2
+Christoph Baumgartner,Attacking Midfield,22,Austria,£19.80m ,TSG 1899 Hoffenheim,3,1,56829,3,2,4
+Christopher Nkunku,Attacking Midfield,24,France,£42.30m ,RB Leipzig,13,9,8484,5,4,7
+Ciro Immobile,Centre-Forward,31,Italy,£34.20m ,SS Lazio,13,2,2076,5,3,3
+Cristian Romero,Centre-Back,23,Argentina,£31.50m ,Tottenham Hotspur,0,0,169310,0,0,0
+Curtis Jones,Central Midfield,20,England,£27.00m ,Liverpool FC,1,4,7873,3,3,3
+Daichi Kamada,Attacking Midfield,25,Japan,£22.50m ,Eintracht Frankfurt,3,1,6716,0,6,6
+Dani Olmo,Attacking Midfield,23,Spain,£45.00m ,RB Leipzig,0,1,23132,1,3,3
+Danilo,Right-Back,30,Brazil,£18.00m ,Juventus FC,0,1,7881,5,3,8
+David Raya,Goalkeeper,26,Spain,£16.20m ,Brentford FC,0,0,4832,1,3,5
+Davide Calabria,Right-Back,24,Italy,£22.50m ,AC Milan,2,1,1738,4,2,8
+Dejan Kulusevski,Right Winger,21,Sweden,£31.50m ,Juventus FC,1,1,1859,5,3,9
+Denis Zakaria,Defensive Midfield,25,Switzerland,£24.30m ,Borussia Mönchengladbach,2,1,6687,4,2,4
+Diego Carlos,Centre-Back,28,Brazil,£40.50m ,Sevilla FC,3,0,8698,5,7,4
+Diogo Jota,Left Winger,24,Portugal,£40.50m ,Liverpool FC,8,3,4092,5,4,7
+Dominic Calvert-Lewin,Centre-Forward,24,England,£40.50m ,Everton FC,3,0,7839,1,1,1
+Dominik Szoboszlai,Left Winger,21,Hungary,£22.50m ,RB Leipzig,6,3,16347,5,4,7
+Donyell Malen,Centre-Forward,22,Netherlands,£27.00m ,Borussia Dortmund,4,2,7457,8,0,8
+Duván Zapata,Centre-Forward,30,Colombia,£29.70m ,Atalanta BC,11,6,2271,3,5,7
+Dwight McNeil,Left Winger,22,England,£19.80m ,Burnley FC,0,1,11623,1,6,5
+Edmond Tapsoba,Centre-Back,22,Burkina Faso,£36.00m ,Bayer 04 Leverkusen,0,0,64713,1,2,2
+Edouard Mendy,Goalkeeper,29,Senegal,£27.00m ,Chelsea FC,0,0,805,6,2,7
+Emil Forsberg,Left Winger,30,Sweden,£18.00m ,RB Leipzig,6,1,3494,5,4,7
+Emile Smith Rowe,Attacking Midfield,21,England,£25.20m ,Arsenal FC,6,2,85570,4,2,6
+Emre Can,Defensive Midfield,27,Germany,£23.40m ,Borussia Dortmund,2,0,3183,3,0,3
+Eric García,Centre-Back,20,Spain,£18.00m ,FC Barcelona,0,0,101345,4,5,6
+Erik Lamela,Right Winger,29,Argentina,£18.00m ,Sevilla FC,4,2,8005,5,6,5
+Erling Haaland,Centre-Forward,21,Norway,£135.00m ,Borussia Dortmund,14,4,38101,4,0,4
+Evan N'Dicka,Centre-Back,22,France,£25.20m ,Eintracht Frankfurt,1,1,526,0,6,5
+Fabinho,Defensive Midfield,28,Brazil,£54.00m ,Liverpool FC,1,1,8749,4,3,5
+Fabián Ruiz,Central Midfield,25,Spain,£40.50m ,SSC Napoli,4,3,22,5,2,6
+Federico Chiesa,Right Winger,24,Italy,£63.00m ,Juventus FC,3,3,1780,5,3,6
+Fikayo Tomori,Centre-Back,23,England,£36.00m ,AC Milan,0,0,11528,5,3,8
+Florian Neuhaus,Central Midfield,24,Germany,£25.20m ,Borussia Mönchengladbach,2,0,9522,4,3,5
+Florian Wirtz,Attacking Midfield,18,Germany,£58.50m ,Bayer 04 Leverkusen,8,9,19334,3,1,6
+Franck Kessié,Central Midfield,24,Cote d'Ivoire,£49.50m ,AC Milan,2,1,1747,4,3,6
+Frenkie de Jong,Central Midfield,24,Netherlands,£81.00m ,FC Barcelona,1,2,7559,5,4,5
+Gabriel,Centre-Back,23,Brazil,£22.50m ,Arsenal FC,1,0,23128,4,2,3
+Gaetano Castrovilli,Central Midfield,24,Italy,£18.00m ,ACF Fiorentina,0,1,2676,4,0,5
+Gerard Moreno,Centre-Forward,29,Spain,£36.00m ,Villarreal CF,3,1,32719,0,4,3
+Gianluca Mancini,Centre-Back,25,Italy,£27.00m ,AS Roma,1,0,1837,4,1,8
+Giovanni Di Lorenzo,Right-Back,28,Italy,£21.60m ,SSC Napoli,1,2,2487,5,2,6
+Gonçalo Guedes,Left Winger,25,Portugal,£22.50m ,Valencia CF,3,4,3259,3,6,5
+Granit Xhaka,Defensive Midfield,29,Switzerland,£19.80m ,Arsenal FC,0,0,3477,1,0,3
+Gregor Kobel,Goalkeeper,23,Switzerland,£16.20m ,Borussia Dortmund,0,0,334,8,0,8
+Guido Rodríguez,Defensive Midfield,27,Argentina,£19.80m ,Real Betis Balompié,0,2,39104,3,3,7
+Hakim Ziyech,Attacking Midfield,28,Morocco,£34.20m ,Chelsea FC,2,3,3707,5,2,7
+Hirving Lozano,Right Winger,26,Mexico,£40.50m ,SSC Napoli,3,4,3306,5,2,6
+Héctor Bellerín,Right-Back,26,Spain,£18.00m ,Real Betis Balompié,0,3,7783,3,1,7
+Ibrahima Konaté,Centre-Back,22,France,£31.50m ,Liverpool FC,0,0,9542,5,4,7
+Ilaix Moriba,Central Midfield,18,Guinea,£22.50m ,RB Leipzig,0,0,157368,4,3,5
+Ismaïla Sarr,Right Winger,23,Senegal,£24.30m ,Watford FC,5,0,3638,2,1,9
+Ivan Toney,Centre-Forward,25,England,£28.80m ,Brentford FC,5,3,5453,1,4,7
+James Tarkowski,Centre-Back,29,England,£22.50m ,Burnley FC,1,2,3316,1,6,5
+James Ward-Prowse,Central Midfield,27,England,£28.80m ,Southampton FC,2,2,8088,1,4,5
+Jan Bednarek,Centre-Back,25,Poland,£22.50m ,Southampton FC,0,0,8086,2,5,5
+Joe Gomez,Centre-Back,24,England,£27.00m ,Liverpool FC,0,0,7862,3,4,6
+Jonathan Tah,Centre-Back,25,Germany,£19.80m ,Bayer 04 Leverkusen,0,2,149,3,3,6
+Jordan Henderson,Central Midfield,31,England,£18.00m ,Liverpool FC,2,3,3320,5,4,6
+Jordan Pickford,Goalkeeper,27,England,£22.50m ,Everton FC,0,0,3309,3,3,5
+Jordan Veretout,Central Midfield,28,France,£29.70m ,AS Roma,4,4,1783,4,1,8
+Jorginho,Defensive Midfield,29,Italy,£40.50m ,Chelsea FC,4,1,2094,6,2,8
+Juan Musso,Goalkeeper,27,Argentina,£18.00m ,Atalanta BC,0,0,46554,3,6,8
+Jude Bellingham,Central Midfield,18,England,£63.00m ,Borussia Dortmund,3,7,125010,8,0,8
+Jules Koundé,Centre-Back,23,France,£54.00m ,Sevilla FC,0,0,8499,5,5,4
+Julian Brandt,Attacking Midfield,25,Germany,£18.00m ,Borussia Dortmund,2,4,148,6,0,7
+Kai Havertz,Attacking Midfield,22,Germany,£63.00m ,Chelsea FC,4,2,171,6,2,8
+Kalidou Koulibaly,Centre-Back,30,Senegal,£43.20m ,SSC Napoli,2,2,2086,5,1,6
+Kasper Dolberg,Centre-Forward,24,Denmark,£19.80m ,OGC Nice,3,0,7570,2,2,5
+Kieran Tierney,Left-Back,24,Scotland,£28.80m ,Arsenal FC,0,0,15615,3,2,5
+Konrad Laimer,Central Midfield,24,Austria,£23.40m ,RB Leipzig,1,0,9549,4,4,6
+Kyle Walker-Peters,Right-Back,24,England,£16.20m ,Southampton FC,1,1,7995,2,5,5
+Leonardo Spinazzola,Left-Back,28,Italy,£23.40m ,AS Roma,0,0,1842,0,0,0
+Lorenzo Insigne,Left Winger,30,Italy,£43.20m ,SSC Napoli,5,6,2092,5,2,6
+Lorenzo Pellegrini,Central Midfield,25,Italy,£40.50m ,AS Roma,8,3,1819,4,1,7
+Lucas Digne,Left-Back,28,France,£31.50m ,Everton FC,1,0,3359,3,3,5
+Lucas Ocampos,Left Winger,27,Argentina,£27.00m ,Sevilla FC,3,2,8358,4,6,4
+Lucas Torreira,Defensive Midfield,25,Uruguay,£16.20m ,ACF Fiorentina,0,0,2260,4,0,8
+Luis Alberto,Central Midfield,29,Spain,£36.00m ,SS Lazio,2,4,2077,5,3,5
+Luis Muriel,Centre-Forward,30,Colombia,£27.00m ,Atalanta BC,3,2,57,2,4,6
+Luiz Felipe,Centre-Back,24,Brazil,£16.20m ,SS Lazio,0,0,2071,4,3,4
+Lukas Klostermann,Right-Back,25,Germany,£24.30m ,RB Leipzig,0,1,9536,3,2,7
+Manuel Akanji,Centre-Back,26,Switzerland,£27.00m ,Borussia Dortmund,0,0,143,8,0,8
+Manuel Lazzari,Right Midfield,28,Italy,£16.20m ,SS Lazio,1,0,2358,4,3,5
+Manuel Locatelli,Defensive Midfield,23,Italy,£31.50m ,Juventus FC,2,2,1751,5,3,9
+Marash Kumbulla,Centre-Back,21,Albania,£19.80m ,AS Roma,0,0,2151,3,0,8
+Marc-André ter Stegen,Goalkeeper,29,Germany,£49.50m ,FC Barcelona,0,0,3173,5,4,6
+Marten de Roon,Defensive Midfield,30,Netherlands,£20.70m ,Atalanta BC,1,0,1848,3,5,5
+Martin Ødegaard,Attacking Midfield,22,Norway,£36.00m ,Arsenal FC,1,1,7427,4,2,4
+Mason Holgate,Centre-Back,25,England,£18.00m ,Everton FC,0,0,7826,3,3,5
+Mason Mount,Attacking Midfield,22,England,£67.50m ,Chelsea FC,3,2,7599,6,2,4
+Matteo Pessina,Attacking Midfield,24,Italy,£18.00m ,Atalanta BC,1,0,2836,3,3,5
+Matteo Politano,Right Winger,28,Italy,£27.00m ,SSC Napoli,2,4,2193,5,2,5
+Matthias Ginter,Centre-Back,27,Germany,£24.30m ,Borussia Mönchengladbach,0,0,3176,4,3,3
+Matthijs de Ligt,Centre-Back,22,Netherlands,£63.00m ,Juventus FC,1,0,7549,4,3,9
+Mauro Arambarri,Central Midfield,26,Uruguay,£18.00m ,Getafe CF,0,2,32758,2,3,6
+Maxence Lacroix,Centre-Back,21,France,£25.20m ,VfL Wolfsburg,0,0,82351,3,3,7
+Maxi Gómez,Centre-Forward,25,Uruguay,£22.50m ,Valencia CF,1,1,3172,2,4,4
+Maximilian Arnold,Central Midfield,27,Germany,£17.10m ,VfL Wolfsburg,1,2,9423,4,4,8
+Memphis Depay,Centre-Forward,27,Netherlands,£40.50m ,FC Barcelona,8,2,8472,6,5,6
+Merih Demiral,Centre-Back,23,Turkey,£25.20m ,Atalanta BC,1,1,37118,3,5,7
+Michael Keane,Centre-Back,28,England,£22.50m ,Everton FC,1,2,7829,3,3,6
+Mike Maignan,Goalkeeper,26,France,£22.50m ,AC Milan,0,0,8390,3,1,5
+Mikkel Damsgaard,Left Winger,21,Denmark,£18.00m ,UC Sampdoria,0,0,24238,0,3,4
+Mohamed Salah,Right Winger,29,Egypt,£90.00m ,Liverpool FC,17,7,3754,5,4,7
+Mohamed Simakan,Centre-Back,21,France,£16.20m ,RB Leipzig,0,0,116196,5,4,6
+Moise Kean,Centre-Forward,21,Italy,£31.50m ,Juventus FC,2,0,2171,3,2,6
+Moussa Diaby,Left Winger,22,France,£37.80m ,Bayer 04 Leverkusen,8,5,2240,3,3,5
+Musa Barrow,Centre-Forward,23,The Gambia,£18.00m ,Bologna FC 1909,4,4,1856,4,3,6
+N'Golo Kanté,Defensive Midfield,30,France,£49.50m ,Chelsea FC,2,0,3367,1,2,6
+Nabil Fekir,Attacking Midfield,28,France,£22.50m ,Real Betis Balompié,3,4,8464,3,3,8
+Naby Keïta,Central Midfield,26,Guinea,£28.80m ,Liverpool FC,3,1,9547,3,3,6
+Nahitan Nández,Right Midfield,25,Uruguay,£18.00m ,Cagliari Calcio,0,2,3168,1,4,7
+Nico Elvedi,Centre-Back,25,Switzerland,£22.50m ,Borussia Mönchengladbach,0,1,3475,3,3,5
+Nicolas Pépé,Right Winger,26,Cote d'Ivoire,£31.50m ,Arsenal FC,1,3,8412,4,2,5
+Nicolás González,Left Winger,23,Argentina,£21.60m ,ACF Fiorentina,3,3,45680,3,0,6
+Nicolò Zaniolo,Right Winger,22,Italy,£36.00m ,AS Roma,2,3,2013,4,1,7
+Nordi Mukiele,Right-Back,24,France,£22.50m ,RB Leipzig,2,1,8371,5,4,7
+Odilon Kossounou,Centre-Back,20,Cote d'Ivoire,£20.70m ,Bayer 04 Leverkusen,0,2,167098,3,3,6
+Orel Mangala,Defensive Midfield,23,Belgium,£19.80m ,VfB Stuttgart,1,2,9398,1,3,4
+Ousmane Dembélé,Right Winger,24,France,£45.00m ,FC Barcelona,0,0,3373,0,0,1
+Pape Sarr,Defensive Midfield,19,Senegal,£18.00m ,FC Metz,0,1,170391,0,0,0
+Patrik Schick,Centre-Forward,25,Czech Republic,£25.20m ,Bayer 04 Leverkusen,8,2,1826,2,2,5
+Pau Torres,Centre-Back,24,Spain,£45.00m ,Villarreal CF,1,0,33109,4,5,5
+Paulo Dybala,Second Striker,28,Argentina,£45.00m ,Juventus FC,6,4,2046,3,3,5
+Pedri,Central Midfield,19,Spain,£72.00m ,FC Barcelona,0,0,133860,1,1,2
+Philippe Coutinho,Attacking Midfield,29,Brazil,£18.00m ,FC Barcelona,2,0,3228,6,4,6
+Pierre-Emerick Aubameyang,Centre-Forward,32,Gabon,£22.50m ,Arsenal FC,7,2,7801,4,2,5
+Rafael Leão,Left Winger,22,Portugal,£22.50m ,AC Milan,5,3,15892,5,3,9
+Ramy Bensebaini,Left-Back,26,Algeria,£19.80m ,Borussia Mönchengladbach,2,1,8805,2,1,3
+Raphaël Guerreiro,Left-Back,27,Portugal,£36.00m ,Borussia Dortmund,3,1,3246,5,0,4
+Reece James,Right-Back,21,England,£40.50m ,Chelsea FC,5,5,56628,4,2,7
+Remo Freuler,Central Midfield,29,Switzerland,£22.50m ,Atalanta BC,1,1,1841,3,6,7
+Richarlison,Centre-Forward,24,Brazil,£49.50m ,Everton FC,2,1,8133,2,2,4
+Ridle Baku,Right Midfield,23,Germany,£22.50m ,VfL Wolfsburg,4,1,6634,4,4,8
+Rob Holding,Centre-Back,26,England,£16.20m ,Arsenal FC,0,0,7784,3,2,6
+Roberto Firmino,Centre-Forward,30,Brazil,£36.00m ,Liverpool FC,6,1,3233,2,4,5
+Robin Gosens,Left Midfield,27,Germany,£31.50m ,Atalanta BC,2,1,1847,2,3,3
+Rodrigo Bentancur,Central Midfield,24,Uruguay,£27.00m ,Juventus FC,0,3,2041,5,3,8
+Roger Ibañez,Centre-Back,23,Brazil,£22.50m ,AS Roma,3,0,1081,4,1,8
+Romelu Lukaku,Centre-Forward,28,Belgium,£90.00m ,Chelsea FC,4,1,3662,4,1,5
+Ronald Araújo,Centre-Back,22,Uruguay,£22.50m ,FC Barcelona,1,0,28292,4,4,4
+Ruslan Malinovskyi,Attacking Midfield,28,Ukraine,£27.00m ,Atalanta BC,3,1,8974,3,6,8
+Sadio Mané,Left Winger,29,Senegal,£76.50m ,Liverpool FC,9,1,3626,5,4,7
+Samuel Chukwueze,Right Winger,22,Nigeria,£18.00m ,Villarreal CF,2,0,33124,2,2,4
+Sandro Tonali,Defensive Midfield,21,Italy,£24.30m ,AC Milan,2,7,2563,5,3,9
+Saúl Ñíguez,Central Midfield,27,Spain,£36.00m ,Chelsea FC,0,1,170029,0,0,0
+Sergej Milinković-Savić,Central Midfield,26,Serbia,£63.00m ,SS Lazio,4,4,2066,5,3,5
+Sergiño Dest,Right-Back,21,United States,£27.00m ,FC Barcelona,0,3,97534,5,4,6
+Takehiro Tomiyasu,Right-Back,23,Japan,£18.00m ,Arsenal FC,0,1,9034,4,3,3
+Tammy Abraham,Centre-Forward,24,England,£34.20m ,AS Roma,8,2,7985,4,1,9
+Theo Hernández,Left-Back,24,France,£45.00m ,AC Milan,1,5,71,4,2,7
+Thomas Partey,Defensive Midfield,28,Ghana,£36.00m ,Arsenal FC,1,0,110,3,2,3
+Thorgan Hazard,Left Winger,28,Belgium,£24.30m ,Borussia Dortmund,4,0,3655,7,0,5
+Tiemoué Bakayoko,Defensive Midfield,27,France,£18.00m ,AC Milan,0,0,7812,3,2,4
+Timo Werner,Centre-Forward,25,Germany,£49.50m ,Chelsea FC,3,1,3187,5,1,6
+Tom Davies,Central Midfield,23,England,£16.20m ,Everton FC,1,1,7837,3,3,4
+Trent Alexander-Arnold,Right-Back,23,England,£67.50m ,Liverpool FC,1,10,7867,4,3,6
+Tyler Adams,Defensive Midfield,22,United States,£18.00m ,RB Leipzig,0,0,77596,4,3,7
+Victor Osimhen,Centre-Forward,22,Nigeria,£54.00m ,SSC Napoli,9,2,9434,5,2,4
+Virgil van Dijk,Centre-Back,30,Netherlands,£49.50m ,Liverpool FC,1,1,7869,5,4,7
+Weston McKennie,Central Midfield,23,United States,£22.50m ,Juventus FC,2,0,6507,5,2,9
+Wout Weghorst,Centre-Forward,29,Netherlands,£27.00m ,VfL Wolfsburg,6,1,7697,4,4,5
+Xaver Schlager,Central Midfield,24,Austria,£24.30m ,VfL Wolfsburg,0,1,16344,2,0,1
+Yerry Mina,Centre-Back,27,Colombia,£18.00m ,Everton FC,0,0,3728,3,2,2
+Youssef En-Nesyri,Centre-Forward,24,Morocco,£36.00m ,Sevilla FC,3,2,32836,5,3,2
+Youssoufa Moukoko,Centre-Forward,17,Germany,£16.20m ,Borussia Dortmund,3,1,150817,6,0,6
+Yussuf Poulsen,Centre-Forward,27,Denmark,£18.90m ,RB Leipzig,4,3,3466,5,4,5
+Álvaro Morata,Centre-Forward,29,Spain,£40.50m ,Juventus FC,4,2,7819,4,3,8
