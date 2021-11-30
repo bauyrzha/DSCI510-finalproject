@@ -13,11 +13,14 @@ DSCI 510 Fall - Final project description
 I will get data from sources, clean them if needed, make some hypothesizes (predictions), and visualize the results. 
 
 3. Datasources:
+
 Source 1 = https://www.transfermarkt.us/ - one of the biggest soccer databases and communities in the world. 
 We will get information about the most valuable players by web-scrapping. 
+
 Source 2 = https://api.football-data.org - External public API, provides football data and statistics 
 (live scores, fixtures, tables, squads, lineups/subs, etc.) in a machine-readable way.
 We will get information about players, their results of the matches by API requests.
+
 Source 3 = https://www.theguardian.com/football - the part of news-portal about soccer with current standings of soccer clubs.  
 We will get information about soccer clubs in 5 top European soccer leagues by web-scrapping.
 
@@ -32,7 +35,19 @@ Please check out requirements.txt to know about requirements according to softwa
 6. A drawing (Entity Relationship Diagram):
 Look drawing.png to find out what objects/items will be extracted from the data sources and what they will be combined into.  
 
-7. How to run scraper.py from the command line:
+7. How to run main_Yerkebulan_Bauyrzhanov.py from the command line:
+
+a) default mode:
+command: python .\main_Yerkebulan_Bauyrzhanov.py
+purpose: scrape ALL of the data, save them in the data subfolder, and do analysis.  
+Be ready that it takes more than 35 minutes to scrape datasets from sources due to the API source having a limitation of 10 calls/minute.
+
+b) static mode
+command: python .\main_Yerkebulan_Bauyrzhanov.py --static
+purpose: get data from the data subfolder if they exist, and do analysis. If they do not exist, scrape ALL of the data from the internet and do analysis.
+
+
+8. How to run scraper.py from the command line:
 Run command line from src folder.
 scraper.py has three modes of running.
 a) default mode: 
@@ -40,7 +55,7 @@ command: python .\scraper.py
 purpose: scrape ALL of the data and print it in a useful way.
 result: print rows of the table with combined data from sources 1 and 2.
 		print rows of the table with data from source 3.
-Be ready that it takes more than 25 minutes to scrape datasets from sources due to the API source having a limitation of 10 calls/minute.
+Be ready that it takes more than 35 minutes to scrape datasets from sources due to the API source having a limitation of 10 calls/minute.
 Note1: Although I use a timeout in my code, you might catch an error. Wait for the script to finish.
        I am advising do not to run the script in different modes in parallel or immediately one after the other.
 Note2: If you do not want to retrieve data again uncomment the row of code that just export data from CSV file. 
@@ -59,18 +74,8 @@ purpose: open and print the static copies of your data
 result: print 5 rows from {name_of_file}.
 Note: the files with data in CSV format are located in the data folder. 
 
-8. How to run main_Yerkebulan_Bauyrzhanov.py from the command line:
-
-a) default mode:
-command: python .\main_Yerkebulan_Bauyrzhanov.py
-purpose: scrape ALL of the data, save them in the data subfolder, and do analysis.  
-
-b) static mode
-command: python .\main_Yerkebulan_Bauyrzhanov.py --static
-purpose: get data from the data subfolder if they exist, and do analysis. If they do not exist, scrape ALL of the data from the internet and do analysis.
-
 9. Description of files
 To find out the whole usage, check out Yerkebulan_Bauyrzhanov_project_description.pdf.
 
-8. Analysis step:
+10. Analysis step:
 to show plots run /src/Yerkebulan_Bauyrzhanov.py from command line or /src/Yerkebulan_Bauyrzhanov.ipynb from jupiter notebook.
