@@ -10,7 +10,7 @@ DSCI 510 Fall - Final project description
 	Analysis I would like to do with the combined data is to find:
 1)	What affects the transfer cost of a soccer player?
 2)	Do top players (superstars) influence the results of the match? If yes, how do they influence it? 
-I will get data from sources, clean them if needed, make some hypothesizes (predictions), and visualize the results. 
+I will get data from sources, clean them if needed, make some hypotheses (predictions), and visualize the results. 
 
 3. Datasources:
 
